@@ -15,6 +15,7 @@ Curated list of top-notch YouTube playlists to help you learn Data Structures an
 
 - [Complete C++ Placement DSA Course by CodeHelp (Love Babbar)](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - [Complete C++ DSA Course by Shradha Khapra](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
+- [Strivers A2Z-DSA Course | DSA Playlist](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=5l6brW-1f4Y07FbV)
 
 ## 🐍 Python
 
@@ -38,13 +39,11 @@ Curated list of top-notch YouTube playlists to help you learn Data Structures an
 
 ### LeetCode & Patterns
 - [AlgoMaster LeetCode Pattern Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
-- [LeetCode Top 100 Liked Questions by Algorithms Made Easy
-](https://www.youtube.com/playlist?list=PLJtzaiEpVo2yDXB8S378RPNA16_HRgMgf)
+- [LeetCode Top 100 Liked Questions by Algorithms Made Easy](https://www.youtube.com/playlist?list=PLJtzaiEpVo2yDXB8S378RPNA16_HRgMgf)
 
 ### Algorithms
 - [Abdul Bari’s Algorithms Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [William Fiset’s Algorithms & Data Structures](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
-
 
 ### Dynamic Programming
 - [Tushar Roy’s DP Playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
